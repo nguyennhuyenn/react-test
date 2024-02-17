@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product A update",
+      "image": "https://picsum.photos/id/100/100/100",
+      "price": 100,
+      "description": ""
+    },
+    {
+      "id": "2",
+      "name": "Product B",
+      "image": "https://picsum.photos/id/100/100/100",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Product C",
+      "image": "https://picsum.photos/id/100/100/100",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "name": "Product D",
+      "image": "https://picsum.photos/id/100/100/100",
+      "price": 400
+    }
+  ],
+  "menu": [
+    {
+      "id":1, "label": "Thống kê", "path": "/admin"
+    },
+    {
+      "id":2, "label": "Sản phẩm", "path": "/admin/products"
+    }
+  ]
+}
